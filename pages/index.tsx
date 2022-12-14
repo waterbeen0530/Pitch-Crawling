@@ -2,6 +2,7 @@ import styled from "@emotion/styled";
 import Header from "../components/common/header";
 import Banner from "../components/main/banner";
 import Consume from "../components/main/consume";
+import Popular from "../components/main/popular";
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
       <Header />
       <Banner />
       <Consume />
+      <Popular />
     </Container>
   );
 }
