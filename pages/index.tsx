@@ -1,10 +1,12 @@
 import styled from "@emotion/styled";
 import Header from "../components/common/header";
+import Banner from "../components/main/banner";
 
 export default function Home() {
   return (
     <Container>
       <Header />
+      <Banner />
     </Container>
   );
 }
