@@ -1,5 +1,6 @@
 import styled from "@emotion/styled";
 import { theme } from "../../styles/theme";
+import Genres from "./genges";
 
 export default function Consume() {
   const item = ["SPRING(봄)", "SUMMER(여름)", "AUTUMN(가을)", "WINTER(겨울)"];
@@ -10,6 +11,7 @@ export default function Consume() {
         <Emphasis>많이 소비</Emphasis>
         <General>되는 장르🍑</General>
       </Title>
+      <Genres />
       <Lists>
         {item.map((season, i) => (
           <List key={i}>
@@ -54,7 +56,7 @@ const Lists = styled.div`
 const List = styled.div`
   width: 220px;
   height: 160px;
-  margin-top: 30px;
+  margin-top: 50px;
   padding: 20px 18px;
   display: flex;
   justify-content: space-between;
