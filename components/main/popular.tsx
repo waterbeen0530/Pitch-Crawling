@@ -80,6 +80,21 @@ const List = styled.div`
   border: 1px solid #ced4da;
   border-radius: 4px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  &:hover {
+    animation: shaking 0.3s;
+    animation-direction: alternate;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    cursor: pointer;
+  }
+  @keyframes shaking {
+    0% {
+      transform: translateY(0);
+    }
+    100% {
+      transform: translateY(-20px);
+    }
+  }
 `;
 
 const Text = styled.p`
