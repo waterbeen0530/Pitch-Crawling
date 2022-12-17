@@ -1,17 +1,30 @@
 import styled from "@emotion/styled";
 import { theme } from "../../styles/theme";
+import Link from "next/link";
 
 export default function Header() {
   return (
     <Container>
       <Wrapper>
-        <Logo>PITCH</Logo>
+        <Link href="/">
+          <Logo>PITCH</Logo>
+        </Link>
         <Nav>
-          <NavItem>SPRING</NavItem>
-          <NavItem>AUTUMN</NavItem>
-          <NavItem>SUMMER</NavItem>
-          <NavItem>WINTER</NavItem>
-          <NavItem>BEST</NavItem>
+          <Link href="/spring">
+            <NavItem>SPRING</NavItem>
+          </Link>
+          <Link href="/summer">
+            <NavItem>SUMMER</NavItem>
+          </Link>
+          <Link href="/autumn">
+            <NavItem>AUTUMN</NavItem>
+          </Link>
+          <Link href="/winter">
+            <NavItem>WINTER</NavItem>
+          </Link>
+          <Link href="/">
+            <NavItem>BEST</NavItem>
+          </Link>
         </Nav>
         <Button>참고사항</Button>
       </Wrapper>

@@ -1,23 +1,29 @@
 import styled from "@emotion/styled";
 import { theme } from "../../styles/theme";
+import Link from "next/link";
+import PopularGenres from "./popularGenres";
 
 export default function Popular() {
   const item = [
     {
       title: "SPRING(봄)",
       Genre: "댄스",
+      link: "/spring",
     },
     {
       title: "SUMMER(여름)",
       Genre: "댄스",
+      link: "/summer",
     },
     {
       title: "AUTUMN(가을)",
       Genre: "록/메탈 & 댄스",
+      link: "/autumn",
     },
     {
       title: "WINTER(겨울)",
       Genre: "랩/힙합",
+      link: "/winter",
     },
   ];
   return (
@@ -27,13 +33,18 @@ export default function Popular() {
         <Emphasis>인기 있는</Emphasis>
         <General>장르🍑</General>
       </Title>
+      <PopularGenres />
       <Lists>
         {item.map((season, i) => (
-          <List key={i}>
-            <Text>{season.title}</Text>
-            <Genre>{season.Genre}</Genre>
-            <Route>바로가기{">"}</Route>
-          </List>
+          <div key={i}>
+            <Link href={season.link}>
+              <List>
+                <Text>{season.title}</Text>
+                <Genre>{season.Genre}</Genre>
+                <Route>바로가기{">"}</Route>
+              </List>
+            </Link>
+          </div>
         ))}
       </Lists>
     </Container>

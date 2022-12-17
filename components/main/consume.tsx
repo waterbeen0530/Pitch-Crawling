@@ -1,9 +1,15 @@
 import styled from "@emotion/styled";
 import { theme } from "../../styles/theme";
 import Genres from "./genges";
+import Link from "next/link";
 
 export default function Consume() {
-  const item = ["SPRING(봄)", "SUMMER(여름)", "AUTUMN(가을)", "WINTER(겨울)"];
+  const item = [
+    { title: "SPRING(봄)", link: "/spring" },
+    { title: "SUMMER(여름)", link: "/summer" },
+    { title: "AUTUMN(가을)", link: "/autumn" },
+    { title: "WINTER(겨울)", link: "/winter" },
+  ];
   return (
     <Container>
       <Title>
@@ -14,11 +20,15 @@ export default function Consume() {
       <Genres />
       <Lists>
         {item.map((season, i) => (
-          <List key={i}>
-            <Text>{season}</Text>
-            <Genre>발라드</Genre>
-            <Route>바로가기{">"}</Route>
-          </List>
+          <div key={i}>
+            <Link href={season.link}>
+              <List>
+                <Text>{season.title}</Text>
+                <Genre>발라드</Genre>
+                <Route>바로가기{">"}</Route>
+              </List>
+            </Link>
+          </div>
         ))}
       </Lists>
     </Container>
