@@ -15,7 +15,7 @@ export default function Genres() {
         myBarChart = new Chart(ctx, {
           type: "bar",
           data: {
-            labels: ["봄"],
+            labels: ["여름"],
             datasets: [
               {
                 label: "발라드",
