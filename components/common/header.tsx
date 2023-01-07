@@ -22,11 +22,8 @@ export default function Header() {
           <Link href="/winter">
             <NavItem>WINTER</NavItem>
           </Link>
-          <Link href="/">
-            <NavItem>BEST</NavItem>
-          </Link>
         </Nav>
-        <Button>참고사항</Button>
+        <Button>빅데이터 분석</Button>
       </Wrapper>
     </Container>
   );
