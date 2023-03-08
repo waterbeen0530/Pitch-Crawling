@@ -7,7 +7,7 @@ export default function Genres() {
 
   let myLineChart: Chart<"line", number[], string>;
 
-  const createBarChart = () => {
+  const createLineChart = () => {
     if (canvasEl && canvasEl.current) {
       const ctx = canvasEl.current.getContext("2d");
 
@@ -74,7 +74,7 @@ export default function Genres() {
     }
   };
   useEffect(() => {
-    createBarChart();
+    createLineChart();
 
     return () => {
       myLineChart.destroy();

@@ -37,7 +37,6 @@ export default function Consume() {
 
 const Container = styled.div`
   width: 70vw;
-  margin-top: 130px;
 `;
 
 const Title = styled.div`

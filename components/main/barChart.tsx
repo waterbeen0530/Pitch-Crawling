@@ -48,9 +48,9 @@ export default function Genres() {
     <Cover>
       <Container>
         <Title>
-          <General>가장</General>
-          <Emphasis>많이 소비</Emphasis>
-          <General>되는 장르🍑</General>
+          <General>가장 대중음악</General>
+          <Emphasis>소비량이 많은</Emphasis>
+          <General>계절🍑</General>
         </Title>
         <canvas id="myChart" ref={canvasEl} height="100" />
       </Container>
@@ -61,6 +61,7 @@ export default function Genres() {
 const Cover = styled.div`
   width: 70vw;
   height: 400px;
+  margin-bottom: 300px;
 `;
 
 const Container = styled.div`
