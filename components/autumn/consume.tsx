@@ -5,7 +5,7 @@ import { useState } from "react";
 import Album from "./album";
 
 export default function Consume() {
-  const str = "1237012908";
+  const str = "1311188882";
   const [modal, setModal] = useState(false);
   const onClick = () => {
     setModal((pre) => !pre);
@@ -13,7 +13,7 @@ export default function Consume() {
   return (
     <Container id="album">
       <Title>
-        <General>봄의 대중음악</General>
+        <General>가을의 대중음악</General>
         <Emphasis>소비량🍑</Emphasis>
       </Title>
       <Consumption>
@@ -26,18 +26,18 @@ export default function Consume() {
         </Totals>
         <Month>
           <February>
-            <Text>2월의 대중음악 총 소비량</Text>
-            <Result>355150036</Result>
+            <Text>8월의 대중음악 총 소비량</Text>
+            <Result>464949676</Result>
             {/* <Button onClick={onClick}>자세히보기</Button> */}
           </February>
           <March>
-            <Text>3월의 대중음악 총 소비량</Text>
-            <Result>422340443</Result>
+            <Text>9월의 대중음악 총 소비량</Text>
+            <Result>425714308</Result>
             {/* <Button>자세히보기</Button> */}
           </March>
           <April>
-            <Text>4월의 대중음악 총 소비량</Text>
-            <Result>459522429</Result>
+            <Text>10월의 대중음악 총 소비량</Text>
+            <Result>420524898</Result>
             {/* <Button>자세히보기</Button> */}
           </April>
         </Month>
@@ -138,7 +138,7 @@ const Text = styled.p`
 const Result = styled.p`
   margin: 24px 0;
   font-size: 30px;
-  color: #ff8787;
+  color: #a48a76;
 `;
 
 const Button = styled.button`
@@ -147,5 +147,5 @@ const Button = styled.button`
   border: none;
   border-radius: 20px;
   color: #fff;
-  background-color: #ff8787;
+  background-color: #a48a76;
 `;
