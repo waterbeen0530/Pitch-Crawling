@@ -1,6 +1,7 @@
 import styled from "@emotion/styled";
 import Header from "../components/common/header";
 import Banner from "../components/winter/banner";
+import Consume from "../components/winter/consume";
 import Genres from "../components/winter/genres";
 import Pouplar from "../components/winter/popular";
 
@@ -11,6 +12,7 @@ export default function Home() {
       <Banner />
       <Genres />
       <Pouplar />
+      <Consume />
     </Container>
   );
 }
