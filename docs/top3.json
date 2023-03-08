@@ -3,92 +3,200 @@
     {
       "title": "VVS (Feat. JUSTHIS) (Prod. GroovyRoom)",
       "genre": "랩/힙합",
-      "singer": "미란이 (Mirani)먼치맨(MUNCHMAN)Khundi Panda머쉬베놈 (MUSHVENOM)"
+      "singer": "미란이 (Mirani)먼치맨(MUNCHMAN)Khundi Panda머쉬베놈 (MUSHVENOM)",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/105/21/601/10521601_20201120125511_500.jpg/melon/resize/120/quality/80/optimize"
     },
-    { "title": "밤하늘의 별을(2020)", "genre": "발라드", "singer": "경서" },
-    { "title": "Dynamite", "genre": "댄스", "singer": "방탄소년단" }
+    {
+      "title": "밤하늘의 별을(2020)",
+      "genre": "발라드",
+      "singer": "경서",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/105/18/234/10518234_20210216102853_500.jpg/melon/resize/120/quality/80/optimize"
+    },
+    {
+      "title": "Dynamite",
+      "genre": "댄스",
+      "singer": "방탄소년단",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/104/79/150/10479150_20200918102847_500.jpg/melon/resize/120/quality/80/optimize"
+    }
   ],
   "2": [
-    { "title": "Celebrity", "genre": "댄스", "singer": "아이유" },
-    { "title": "밤하늘의 별을(2020)", "genre": "발라드", "singer": "경서" },
-    { "title": "Dynamite", "genre": "댄스", "singer": "방탄소년단" }
+    {
+      "title": "Celebrity",
+      "genre": "댄스",
+      "singer": "아이유",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/105/54/246/10554246_20210325161233_500.jpg/melon/resize/120/quality/80/optimize"
+    },
+    {
+      "title": "밤하늘의 별을(2020)",
+      "genre": "발라드",
+      "singer": "경서",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/105/18/234/10518234_20210216102853_500.jpg/melon/resize/120/quality/80/optimize"
+    },
+    {
+      "title": "Dynamite",
+      "genre": "댄스",
+      "singer": "방탄소년단",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/104/79/150/10479150_20200918102847_500.jpg/melon/resize/120/quality/80/optimize"
+    }
   ],
   "3": [
-    { "title": "롤린 (Rollin')", "genre": "댄스", "singer": "브레이브걸스" },
-    { "title": "Celebrity", "genre": "댄스", "singer": "아이유" },
+    {
+      "title": "롤린 (Rollin')",
+      "genre": "댄스",
+      "singer": "브레이브걸스",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/100/43/575/10043575_20210302112520_500.jpg/melon/resize/120/quality/80/optimize"
+    },
+    {
+      "title": "Celebrity",
+      "genre": "댄스",
+      "singer": "아이유",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/105/54/246/10554246_20210325161233_500.jpg/melon/resize/120/quality/80/optimize"
+    },
     {
       "title": "LOVE DAY (2021) (바른연애 길잡이 X 양요섭, 정은지)",
       "genre": "댄스",
-      "singer": "양요섭정은지"
+      "singer": "양요섭정은지",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/105/73/486/10573486_20210304202053_500.jpg/melon/resize/120/quality/80/optimize"
     }
   ],
   "4": [
-    { "title": "롤린 (Rollin')", "genre": "댄스", "singer": "브레이브걸스" },
-    { "title": "라일락", "genre": "댄스", "singer": "아이유" },
-    { "title": "Celebrity", "genre": "댄스", "singer": "아이유" }
+    {
+      "title": "롤린 (Rollin')",
+      "genre": "댄스",
+      "singer": "브레이브걸스",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/100/43/575/10043575_20210302112520_500.jpg/melon/resize/120/quality/80/optimize"
+    },
+    {
+      "title": "라일락",
+      "genre": "댄스",
+      "singer": "아이유",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/105/54/246/10554246_20210325161233_500.jpg/melon/resize/120/quality/80/optimize"
+    },
+    {
+      "title": "Celebrity",
+      "genre": "댄스",
+      "singer": "아이유",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/105/54/246/10554246_20210325161233_500.jpg/melon/resize/120/quality/80/optimize"
+    }
   ],
   "5": [
-    { "title": "롤린 (Rollin')", "genre": "댄스", "singer": "브레이브걸스" },
+    {
+      "title": "롤린 (Rollin')",
+      "genre": "댄스",
+      "singer": "브레이브걸스",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/100/43/575/10043575_20210302112520_500.jpg/melon/resize/120/quality/80/optimize"
+    },
     {
       "title": "Peaches (Feat. Daniel Caesar & Giveon)",
       "genre": "POP",
-      "singer": "Justin Bieber"
+      "singer": "Justin Bieber",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/105/80/103/10580103_20211008114642_500.jpg/melon/resize/120/quality/80/optimize"
     },
-    { "title": "라일락", "genre": "댄스", "singer": "아이유" }
+    {
+      "title": "라일락",
+      "genre": "댄스",
+      "singer": "아이유",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/105/54/246/10554246_20210325161233_500.jpg/melon/resize/120/quality/80/optimize"
+    }
   ],
   "6": [
-    { "title": "Butter", "genre": "댄스", "singer": "방탄소년단" },
-    { "title": "Next Level", "genre": "댄스", "singer": "aespa" },
-    { "title": "헤픈 우연", "genre": "R&B/Soul", "singer": "헤이즈 (Heize)" }
+    {
+      "title": "Butter",
+      "genre": "댄스",
+      "singer": "방탄소년단",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/106/12/483/10612483_20210521111412_500.jpg/melon/resize/120/quality/80/optimize"
+    },
+    {
+      "title": "Next Level",
+      "genre": "댄스",
+      "singer": "aespa",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/106/09/232/10609232_20210517155130_500.jpg/melon/resize/120/quality/80/optimize"
+    },
+    {
+      "title": "헤픈 우연",
+      "genre": "R&B/Soul",
+      "singer": "헤이즈 (Heize)",
+      "cover": "https://cdnimg.melon.co.kr/cm2/album/images/106/11/845/10611845_20210520170350_500.jpg/melon/resize/120/quality/80/optimize"
+    }
   ],
   "7": [
-    { "title": "바라만 본다", "genre": "발라드", "singer": "MSG워너비(M.O.M)" },
-    { "title": "Next Level", "genre": "댄스", "singer": "aespa" },
-    { "title": "Butter", "genre": "댄스", "singer": "방탄소년단" }
+    {
+      "title": "바라만 본다",
+      "genre": "발라드",
+      "singer": "MSG워너비(M.O.M)",
+      "cover": ""
+    },
+    { "title": "Next Level", "genre": "댄스", "singer": "aespa", "cover": "" },
+    { "title": "Butter", "genre": "댄스", "singer": "방탄소년단", "cover": "" }
   ],
   "8": [
-    { "title": "신호등", "genre": "록/메탈", "singer": "이무진" },
-    { "title": "바라만 본다", "genre": "발라드", "singer": "MSG워너비(M.O.M)" },
-    { "title": "Next Level", "genre": "댄스", "singer": "aespa" }
+    { "title": "신호등", "genre": "록/메탈", "singer": "이무진", "cover": "" },
+    {
+      "title": "바라만 본다",
+      "genre": "발라드",
+      "singer": "MSG워너비(M.O.M)",
+      "cover": ""
+    },
+    { "title": "Next Level", "genre": "댄스", "singer": "aespa", "cover": "" }
   ],
   "9": [
-    { "title": "STAY", "genre": "POP", "singer": "The Kid LAROIJustin Bieber" },
-    { "title": "신호등", "genre": "록/메탈", "singer": "이무진" },
-    { "title": "Next Level", "genre": "댄스", "singer": "aespa" }
+    {
+      "title": "STAY",
+      "genre": "POP",
+      "singer": "The Kid LAROIJustin Bieber",
+      "cover": ""
+    },
+    { "title": "신호등", "genre": "록/메탈", "singer": "이무진", "cover": "" },
+    { "title": "Next Level", "genre": "댄스", "singer": "aespa", "cover": "" }
   ],
   "10": [
-    { "title": "STAY", "genre": "POP", "singer": "The Kid LAROIJustin Bieber" },
-    { "title": "신호등", "genre": "록/메탈", "singer": "이무진" },
-    { "title": "Savage", "genre": "댄스", "singer": "aespa" }
+    {
+      "title": "STAY",
+      "genre": "POP",
+      "singer": "The Kid LAROIJustin Bieber",
+      "cover": ""
+    },
+    { "title": "신호등", "genre": "록/메탈", "singer": "이무진", "cover": "" },
+    { "title": "Savage", "genre": "댄스", "singer": "aespa", "cover": "" }
   ],
   "11": [
-    { "title": "strawberry moon", "genre": "록/메탈", "singer": "아이유" },
+    {
+      "title": "strawberry moon",
+      "genre": "록/메탈",
+      "singer": "아이유",
+      "cover": ""
+    },
     {
       "title": "쉬어 (Feat. MINO) (Prod. GRAY)",
       "genre": "랩/힙합",
-      "singer": "아넌딜라이트(Anandelight)unofficialboyyBE'O (비오)지구인Mudd the student"
+      "singer": "아넌딜라이트(Anandelight)unofficialboyyBE'O (비오)지구인Mudd the student",
+      "cover": ""
     },
     {
       "title": "회전목마 (Feat. Zion.T, 원슈타인) (Prod. Slom)",
       "genre": "랩/힙합",
-      "singer": "sokodomo"
+      "singer": "sokodomo",
+      "cover": ""
     }
   ],
   "12": [
     {
       "title": "회전목마 (Feat. Zion.T, 원슈타인) (Prod. Slom)",
       "genre": "랩/힙합",
-      "singer": "sokodomo"
+      "singer": "sokodomo",
+      "cover": ""
     },
     {
       "title": "리무진 (Feat. MINO) (Prod. GRAY)",
       "genre": "랩/힙합",
-      "singer": "BE'O (비오)"
+      "singer": "BE'O (비오)",
+      "cover": ""
     },
     {
       "title": "만남은 쉽고 이별은 어려워 (Feat. Leellamarz) (Prod. TOIL)",
       "genre": "랩/힙합",
-      "singer": "베이식 (Basick)"
+      "singer": "베이식 (Basick)",
+      "cover": ""
     }
   ]
 }
